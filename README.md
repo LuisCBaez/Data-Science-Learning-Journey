@@ -22,12 +22,13 @@ These notebooks cover various essential topics for data science learning and pra
 - **00 to 08:** Python, NumPy, Pandas, Data Visualization, and SQL fundamentals.
 - **09 to 14:** Object-Oriented Programming (OOP), Data Wrangling, Exploratory Data Analysis (EDA), and an introduction to Machine Learning.
 
-Key learning notebooks include:
+### Key Learning Notebooks
 
-- **[11. Data Wrangling.ipynb]([https://github.com/LuisCBaez/11_Data_Wrangling.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/11_Data_Wrangling.ipynb))** – A deep dive into handling messy data.
-- **[12. Exploratory Data Analysis.ipynb]([https://github.com/LuisCBaez/12_Exploratory_Data_Analysis.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/12_Exploratory_Data_Analysis.ipynb))** – Techniques for analyzing datasets.
-- **[13. Model Development.ipynb]([https://github.com/LuisCBaez/13_Model_Development.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/13_Model_Development.ipynb))** – Introduction to building machine learning models.
-- **[14. Model Evaluation.ipynb]([https://github.com/LuisCBaez/14_Model_Evaluation.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/14_Model_Evaluation.ipynb))** – Methods for evaluating model performance.
+- **[11. Data Wrangling.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/11_Data_Wrangling.ipynb)** – A deep dive into handling messy data.
+- **[12. Exploratory Data Analysis.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/12_Exploratory_Data_Analysis.ipynb)** – Techniques for analyzing datasets.
+- **[13. Model Development.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/13_Model_Development.ipynb)** – Introduction to building machine learning models.
+- **[14. Model Evaluation.ipynb](https://github.com/LuisCBaez/Data-Science-Learning-Journey/blob/main/notebooks/14_Model_Evaluation.ipynb)** – Methods for evaluating model performance.
+
 
 ---
 
